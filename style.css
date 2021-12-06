@@ -1,0 +1,11 @@
+.travel_mainDiv{
+  border:3px soild #84FFFF ;
+ padding-left:0px;
+  padding-right:0px;
+  float:none;
+}
+.travel_mainDiv hr{
+width:230px;
+}
+.travel_mainDiv h5,.travel_mainDiv p{
+ margin-left:20px; 
